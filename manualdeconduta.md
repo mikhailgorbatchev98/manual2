@@ -2,7 +2,7 @@
 
 # 🌐 Introdução
 
-> ## **📢 DIRETRIZES DO COMANDO EM EXERCÍCIO — GSA**
+> ## **📢 Diretrizes do Comando em Exercício — GSA**
 
 O Grupamento de Suporte Aéreo (GSA) constitui a força aerotática especializada do 1º BPM - Batalhão Hardline. Sua doutrina operacional é fundamentada na provisão de superioridade aérea, cobertura de fogo e vetorização estratégica em missões de alta complexidade, operando como elemento multiplicador de força no combate ao crime organizado e no suporte humanitário à população.
 
@@ -16,13 +16,15 @@ Este manual consolida os Procedimentos Operacionais Padrão (POP), os protocolos
 > ## 🛡️ Diretrizes Básicas de Conduta
 
 ### 1. Postura e Comportamento
-* **Respeito Hierárquico:** É obrigatório acatar ordens de patentes superiores imediatamente, desde que tais ordens não infrinjam as leis do Estado ou as regras gerais de Roleplay.
-* **Uso de Fardamento:** O policial deve apresentar-se sempre com o fardamento correspondente ao seu cargo atual, devidamente alinhado e sem adereços não autorizados (máscaras inadequadas, óculos espalhafatosos, etc.).
-* **Linguagem:** Manter uma postura formal e técnica durante as abordagens e na frequência de rádio, evitando palavras de baixo calão ou discussões desnecessárias.
+* **Respeito Hierárquico:** É dever imperativo de todo operador do GSA acatar e executar com total presteza e de forma imediata as ordens emanadas de patentes superiores. O princípio da obediência hierárquica vigora em sua plenitude, cessando estritamente em caso de ordem manifestamente ilegal que infrinja as leis do Estado ou que viole de forma direta as regras gerais de Roleplay (RP).
+* **Uso de Fardamento:** O policial deve apresentar-se para o serviço em perfeitas condições de higiene e com a postura corporal que reflita o profissionalismo da aviação. É obrigatório o uso do fardamento oficial e dos equipamentos de proteção individual (EPIs) correspondentes de forma exata ao cargo, nível e função que o operador ocupa na linha de voo atual.
+* **Linguagem:** É intolerável o uso de palavras de baixo calão, termos pejorativos, gírias civis ou qualquer envolvimento em discussões e bate-bocas desnecessários na rede de rádio ou com cidadãos abordados. O silêncio de rádio deve ser respeitado rigorosamente para dar prioridade a códigos de emergência e alertas táticos, blindando a unidade contra qualquer desvio de conduta ou prática.
 
 ### 2. Conduta em Serviço
-* **Patrulhamento:** Nenhuma viatura deve patrulhar com apenas 1 policial, exceto sob autorização expressa do Comando Geral em situações específicas.
-* **Uso da Força:** A força deve ser progressiva. O uso de armamento letal só é permitido em legítima defesa, defesa de terceiros ou quando o suspeito apresentar risco iminente de morte utilizando arma de fogo.
+* **Patrulhamento:** enhuma fração de força do GSA operará sem o efetivo mínimo regulamentar. Para o vetor aéreo (Airbus H125), fica terminantemente proibida a decolagem para patrulhamento com tripulação incompleta, assim como nenhuma viatura terrestre de apoio apoiará o perímetro com apenas 1 (um) operador isolado.
+* **Uso da Força:** O emprego da força por qualquer integrante do GSA deve seguir, de forma estrita, a matriz de escalonamento e proporcionalidade, iniciando-se pela simples presença ostensiva e dissuasória da aeronave e evoluindo conforme a resistência do perpetrador. O uso de força letal e o acionamento da linha de fogo — seja em terra ou por meio do tiro de precisão embarcado — constitui medida excepcional de última instância, autorizada exclusivamente em legítima defesa própria ou de terceiros, ou diante de uma agressão incipiente, atual e iminente que atente contra a vida através do emprego manifesto de arma de fogo.
+
+.
 
 ---
 
