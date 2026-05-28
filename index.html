@@ -3,29 +3,50 @@
 <head>
   <meta charset="UTF-8">
   <title>Manual de Conduta - PMHL</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Manual de Conduta da Polícia Militar Hardline.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/dark.css">
+  
+  <style>
+    /* Ajustes visuais finos para aproximar ao estilo do print */
+    :root {
+      --theme-color: #f0a500; /* Cor de destaque em tom dourado/laranja */
+    }
+    .sidebar {
+      background-color: #1c1f24 !important;
+    }
+    body {
+      background-color: #111417 !important;
+    }
+  </style>
 </head>
 <body>
-  <div id="app">Carregando manual...</div>
+  <div id="app">Carregando o manual da PMHL...</div>
+  
   <script>
     window.$docsify = {
       name: 'PMHL',
       repo: '',
-      loadSidebar: true, // Ativa a barra lateral
-      subMaxLevel: 2
+      
+      // Ativa o menu lateral através do ficheiro _sidebar.md
+      loadSidebar: true,
+      
+      // Define o nível máximo de sub-títulos que aparecem automaticamente no menu
+      subMaxLevel: 2,
+      
+      // Garante que o ficheiro inicial padrão será o README.md
+      homepage: 'README.md',
+      
+      // Evita o erro 404 redirecionando rotas vazias para o README.md
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md',
+        '/': '/README.md'
+      }
     }
   </script>
-  <script>
-  window.$docsify = {
-    name: 'PMHL',
-    repo: '',
-    
-    // ESTA É A CONFIGURAÇÃO QUE ATIVA O _sidebar.md:
-    loadSidebar: true, 
-    
-    subMaxLevel: 2
-  }
-</script>
+  
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 </body>
 </html>
