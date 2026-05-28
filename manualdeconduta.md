@@ -36,10 +36,10 @@ O não cumprimento das normas estabelecidas neste documento sujeitará o militar
 
 | Gravidade | Tipo de Infração | Punição Aplicável |
 | :--- | :--- | :--- |
-| **Leve** | Desleixo com fardamento / Viatura suja ou danificada | Advertência Verbal / Limpeza do pátio |
-| **Média** | Uso indevido do rádio / Desrespeito leve a pares | Advertência Escrita / Suspensão de 24h |
-| **Grave** | Insubordinação / Abuso de autoridade em abordagem | Rebaixamento de Patente / Suspensão de 3 a 5 dias |
-| **Gravíssima** | Corrupção / Power Gaming / VDM em serviço | Exoneração Imediata + **Blacklist** |
+| **Leve** | Desleixo com a apresentação pessoal ou fardamento / Falta de zelo com o vetor aéreo | Advertência Verbal / Limpeza do pátio |
+| **Média** | Uso inadequado das frequências de rádio / Desrespeito leve a pares | Advertência Escrita / Suspensão de 24h |
+| **Grave** | Insubordinação direta ou hesitação no cumprimento de ordens superiores / Abuso de autoridade, agressão verbal ou excesso de força em abordagens | Rebaixamento de Patente / Suspensão de 3 a 5 dias |
+| **Gravíssima** | Práticas de corrupção ou prevaricação / Violações graves de diretrizes | Exoneração Imediata + **Blacklist** |
 
 ---
 
