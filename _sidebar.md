@@ -1,5 +1,5 @@
 * **INTRODUÇÃO**
-  * [Manual de Conduta](README.md)
+  * [Manual de Conduta](Manual.md)
   * [Regulamento Básico](regulamento.md)
 
 * **ORGANIZAÇÃO**
