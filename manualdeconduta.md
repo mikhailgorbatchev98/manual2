@@ -1,7 +1,7 @@
 # 📑 DOCUMENTO OFICIAL
 
 # Introdução
----
+
 > **📢 DIRETRIZES DO COMANDO EM EXERCÍCIO — GSA**
 
 O Grupamento de Suporte Aéreo (GSA) constitui a força aerotática especializada do 1º BPM - Batalhão Hardline. Sua doutrina operacional é fundamentada na provisão de superioridade aérea, cobertura de fogo e vetorização estratégica em missões de alta complexidade, operando como elemento multiplicador de força no combate ao crime organizado e no suporte humanitário à população.
@@ -11,8 +11,7 @@ Este manual consolida os Procedimentos Operacionais Padrão (POP), os protocolos
 🦅 'GSA – Sob a égide da Harpia, erguemo-nos soberanos além dos limites da terra para que a precisão de nossa garra alcance o refúgio dos ímpios, enquanto a infinitude de nosso olhar descortina o horizonte, blindando os justos e impondo a ordem com a força implacável daqueles que dominam os céus.'
 
 **Comando em Exercício 3 SGT.Nomad Gorbatchev** 
-
-
+---
 
 > ## 🛡️ Diretrizes Básicas de Conduta
 
