@@ -65,7 +65,7 @@ O Piloto em comando é a autoridade máxima sobre a segurança do vetor:
 🚫 **Proibição Absoluta:**
 O piloto **não deve, em hipótese alguma, pousar ou descer a aeronave** em áreas de QRU ativa. O pouso só é permitido em locais estritamente estratégicos e seguros para o embarque/desembarque de atiradores ou para procedimentos de abordagem à própria aeronave.
 
-</blockquote>
+</blockquote
 
 ---
 
