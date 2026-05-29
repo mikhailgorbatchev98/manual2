@@ -1,4 +1,4 @@
-🚁 FICHA TÉCNICA E DOUTRINA DE VOO — EUROCOPTER EC135
+🚁 Ficha Técnica e Doutrina de Voo — Eurocopter EC135
 
 
 > 1. VISÃO GERAL DO EQUIPAMENTO
@@ -33,7 +33,7 @@ O EC135 confere ao 1º BPM Hardline uma plataforma estável para missões de pat
 📻 Rádio de Missão Multibanda: Frequência dedicada com criptografia tática para comunicação direta e sem interferências com as unidades terrestres do 1º BPM Hardline.
 
 
-4. DOUTRINA DE EMPREGO OPERACIONAL
+> 4. DOUTRINA DE EMPREGO OPERACIONAL
 
 A) Patrulhamento Ostensivo e Dissuasão Aérea
 O EC135 deve ser empregado para cobrir grandes áreas comerciais e residenciais, atuando como um poderoso vetor de dissuasão psicológica contra a criminalidade devido à sua forte presença no espaço aéreo.
@@ -45,7 +45,7 @@ C) Suporte de Fogo Aproximado e Tiro Embarcado (COD5)
 O uso da linha de fogo lateral descendente é uma medida de exceção de gravidade máxima. O Atirador Embarcado (AEA), posicionado na porta lateral, executará tiros de precisão ou contenção apenas sob ordens estritas e dentro dos parâmetros legais de legítima defesa ou risco iminente à vida.
 
 
-5. PROTOCOLOS DE VOO E PRONTIDÃO DISCIPLINAR
+> 5. PROTOCOLOS DE VOO E PRONTIDÃO DISCIPLINAR
 
 📋 Checklist de Pré-Voo (Pre-flight): Antes de acionar as turbinas, o Comandante da Aeronave deve inspecionar pessoalmente as condições estruturais do vetor, níveis de fluidos, integridade das pás e fixação dos equipamentos táticos.
 
