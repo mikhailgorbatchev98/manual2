@@ -8,14 +8,20 @@ O Eurocopter EC135 (atual Airbus Helicopters H135) constitui a espinha dorsal ae
 O EC135 confere ao 1º BPM Hardline uma plataforma estável para missões de patrulhamento urbano, suporte de fogo aproximado, busca e salvamento, e vetorização tática em tempo real.
 
 
-> 2. FICHA TÉCNICA E ESPECIFICAÇÕES OPERACIONAIS
 
-• Fabricante / Modelo: Eurocopter / Airbus Helicopters EC135 (H135)
-• Tipo de Vetor: Aeronave de Asas Rotativas Multimissão (Bi-turbina)
-• Motorização: 2 × Turbinas Safran Arrius 2B2 ou Pratt & Whitney PW206B2
-• Tripulação Mínima: 01 Piloto Oficial + 01 Copiloto (Operador de Sistemas) + 01 Atirador Embarcado (AEA)
-• Capacidade de Carga: Até 5 operadores táticos equipados na cabine traseira
-• Segurança Básica: Rotor Fenestron (carenado) e patins de alta absorção de impacto
+> 2. Ficha Técnica e Especificações Operacionais
+
+| Parâmetro Técnico | Especificação / Capacidade |
+| :--- | :--- |
+| **Fabricante / Modelo** | Eurocopter / Airbus Helicopters EC135 (H135) |
+| **Tipo de Vetor** | Aeronave de Asas Rotativas Multimissão (Bi-turbina) |
+| **Motorização** | 2 × Turbinas Safran Arrius 2B2 ou Pratt & Whitney Canada PW206B2 |
+| **Tripulação Mínima Operacional** | 01 Piloto Oficial + 01 Copiloto/Operador de Sistemas + 01 Atirador Embarcado (AEA) |
+| **Capacidade de Transporte** | Até 5 operadores táticos devidamente equipados na cabine traseira |
+| **Sistemas de Segurança Básica** | Rotor Fenestron (anti-torque carenado) e patins de pouso de alta absorção de impacto |
+
+
+
 
 
 > 3. SISTEMAS EMBARCADOS E TECNOLOGIAS DE ELITE
