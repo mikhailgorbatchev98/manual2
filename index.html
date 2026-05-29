@@ -28,6 +28,20 @@
       cursor: default;      /* Remove o ponteiro de link */
       text-decoration: none;
     }
+    /* Ajuste das tabelas para o tema escuro */
+    .markdown-section table tr:nth-child(2n) {
+      background-color: #1e2227 !important; /* Muda o fundo branco para um cinza bem escuro */
+    }
+    
+    /* Garante que o texto dentro das linhas escuras fique claro e visível */
+    .markdown-section table td {
+      color: #cbd5e1 !important; /* Cor do texto (cinza claro) */
+    }
+    
+    /* Deixa as bordas da tabela mais discretas */
+    .markdown-section table, .markdown-section table th, .markdown-section table td {
+      border-color: #2d3139 !important;
+    }
     .sidebar .app-name-link img {
       max-width: 100px; /* Controla a largura máxima da logo */
       height: auto;
