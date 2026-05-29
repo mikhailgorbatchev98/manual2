@@ -42,7 +42,12 @@
       display: block;
       margin-bottom: 20px;
     }
-
+   /* Desativa o clique e o comportamento de link da Logo e do Título */
+    .sidebar .app-name-link {
+      pointer-events: none; /* Impede qualquer clique do mouse */
+      cursor: default;      /* Remove a mãozinha do mouse, deixando a seta normal */
+      text-decoration: none;
+    }
     /* Estilização para o bloco de notas/alerta azul (Callout) */
     blockquote {
       background-color: #16222f !important;
