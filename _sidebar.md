@@ -9,7 +9,7 @@
 * **OPERAÇÕES**
   * [Comunicação](comunicacao.md)
   * [Aeronaves](aeronave.md)
-  * [Acompanhamento](ocorrencias.md)
+  * [Ocorrencias](ocorrencias.md)
   * [Revista](revista.md)
   * [Abordagem](abordagem.md)
   * [Comportamento em CÓD.5](comportamento.md)
