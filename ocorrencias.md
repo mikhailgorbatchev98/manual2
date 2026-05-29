@@ -14,7 +14,7 @@ O apoio em situações de Boosting segue critérios rígidos baseados na classe 
 * **Boosting Classes A e S:** Estamos autorizados a prestar apoio direto no **veículo principal**.
 * **Boosting Classes B ou Inferiores:** É **proibido** interferir, acompanhar ou modular qualquer informação sobre o veículo PRINCIPAL. O auxílio é restrito exclusivamente aos **veículos de APOIO**, e apenas se estes forem de classe **A** ou **S**.
 
-<blockquote class="danger">
+<blockquote class="warning">
 
 ⚠️ **Regra de Contingente para Boosting:**
 Sempre que o GSA for empenhado em um Boosting (seja no apoio ou no principal, classes A ou S), é **obrigatório** tripular o helicóptero com pelo menos **Piloto + 1 Operador**. Os meliantes podem abrir fogo contra a aeronave, transformando a ocorrência em uma situação de prioridade para todo o batalhão.
