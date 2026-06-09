@@ -32,14 +32,4 @@ O Embraer ERJ-135 (E135) é o nosso jato de alta performance, utilizado para mis
 
 ---
 
-> ## 5. Protocolos de Voo e Prontidão Disciplinar
-
-* 📋 **Checklist de Pré-Voo (Pre-flight):** Antes de acionar as turbinas, o Comandante da Aeronave deve inspecionar pessoalmente as condições estruturais do vetor, níveis de fluidos, integridade das pás e fixação dos equipamentos táticos.
-* ⛽ **Gerenciamento de Combustível:** O retorno à base para reabastecimento é **OBRIGATÓRIO** quando o indicador atingir a reserva técnica de segurança de 20 minutos de voo. É intolerável colocar o vetor em situação de pane seca.
-
-> ⚠️ **Segurança em Solo:**
-> A aproximação da aeronave com os rotores girando deve ser feita **SEMPRE pela parte frontal** (visão do piloto). É terminantemente proibido circular a área traseira (cauda) por risco severo de acidentes fatais.
-
----
-
 > 🦅 *“GSA – Sob a égide da Harpia, erguemo-nos soberanos além dos limites da terra...”*
