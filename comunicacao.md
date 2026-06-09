@@ -1,5 +1,5 @@
 
-# CAPÍTULO VII – GLOSSÁRIO AEROTÁTICO E APLICAÇÃO TÉCNICA
+# GLOSSÁRIO AEROTÁTICO E APLICAÇÃO TÉCNICA
 
 Para garantir que a comunicação via CP, relatórios digitais e frequências de rádio ocorra sem ruídos, falhas de interpretação ou hesitações, todo operador do GSA deve dominar a terminologia técnica padrão da aviação policial. Abaixo estão listadas as siglas e abreviações oficiais utilizadas em nossos relatórios, ordens de missão e comunicações internas:
 
