@@ -1,4 +1,4 @@
-## 🚁 Diretrizes Operacionais do GSA
+## Diretrizes Operacionais do GSA
 
 ---
 
