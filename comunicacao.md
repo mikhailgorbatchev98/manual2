@@ -38,11 +38,12 @@ Para que o operador compreenda como essas siglas se conectam na prática do serv
 
 > 📋 **INFO / GSA - NOTAM OPERACIONAL**
 > 
-> **ACFT:** H135 (Vetor de Prefixo Águia 01)
-> **PROC:** Acionamento imediato via rádio tático para apoio em QRU de Roubo a Banco (Cód.5).
-> **POB:** 03 operadores táticos equipados.
-> **TKOFF:** Realizado com sucesso a partir do heliponto central.
-> **ETO:** Previsão de sobrevoo sobre a Zona Vermelha em 04M.
-> **ETA:** Estimativa de apoio ao cerco tático das viaturas terrestres em 06M.
+> * **ACFT:** EC135 | **TKOFF:** 14:00h | **POB:** 03
 > 
-> *Obs: Após o congelamento do perímetro e neutralização da crise pelas unidades terrestres do 1º BPM Hardline, o comando coordenará o **RTB** para reabastecimento logístico. **ARR** prevista no hangar central sem alterações.*
+> ---
+> 
+> * **SITUAÇÃO:** Vetor manteve ETO sobre o Porto dando cobertura às viaturas. Comando acionou RTB por combustível crítico.
+> 
+> ---
+> 
+> * **STATUS:** ETA de ARR na base em 05M. Missão executada 100% dentro do SOP.
