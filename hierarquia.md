@@ -45,7 +45,7 @@
 *   **Operador Sênior:** Especialista em balística e assalto aerotático. Detém a prioridade no acionamento da linha de fogo lateral em missões de infiltração, apoio de fogo aproximado, cenários de alto risco e eventos sob Código 5 (COD5).
 *   **Operador Veterano:** Tripulante Master da divisão. Encarregado da fiscalização doutrinária de todas as praças operacionais inferiores, acumulando funções de planejamento tático e rotinas administrativas junto ao Comando.
 
-# 🏛️ CADEIA DE COMANDO E HIERARQUIA OPERACIONAL
+ 🏛️ CADEIA DE COMANDO E HIERARQUIA OPERACIONAL
 
 O Grupamento de Sistemas Aerotáticos segue uma estrutura hierárquica rígida e bem definida, garantindo a fluidez da comunicação e o respeito à doutrina tanto em solo quanto na linha de voo.
 
@@ -60,13 +60,13 @@ graph LR
     classDef quadros fill:#222,stroke:#f0a500,stroke-width:2px,color:#fff;
     classDef cargo fill:#2d3748,stroke:#718096,stroke-width:1px,color:#fff;
 
-    %% Estrutura Principal de Comando (Fluxo Esquerda para Direita)
+    %% Estrutura Principal de Comando
     ALTO["<b>[ ALTO COMANDO ]</b><br>Instância Máxima"] --> COMANDO
     COMANDO["<b>[ COMANDO ]</b><br>Diretrizes e Decisões"] --> SUB
     SUB["<b>[ SUB COMANDO ]</b><br>Elo Voo e Solo"] --> Q_PILOTOS
     SUB --> Q_OPERADORES
 
-    %% Subgráfico do Quadro de Pilotos (Fluxo Esquerda para Direita - Antiguidade)
+    %% Subgráfico do Quadro de Pilotos
     subgraph P ["🕹️ LINHA DE VOO (Ordem de Antiguidade: Maior para Menor)"]
         Q_PILOTOS["<b>QUADRO DE PILOTOS</b>"] --> P1["🏅 Piloto Veterano"]
         P1 --> P2["🎖️ Piloto Sênior"]
@@ -75,7 +75,7 @@ graph LR
         P4 --> P5["⚠️ Aspirante a Piloto *"]
     end
 
-    %% Subgráfico do Quadro de Operadores (Fluxo Esquerda para Direita - Antiguidade)
+    %% Subgráfico do Quadro de Operadores
     subgraph O ["🎯 TRIPULAÇÃO (Ordem de Antiguidade: Maior para Menor)"]
         Q_OPERADORES["<b>QUADRO DE OPERADORES</b>"] --> O1["🏅 Operador Veterano"]
         O1 --> O2["🎖️ Operador Sênior"]
