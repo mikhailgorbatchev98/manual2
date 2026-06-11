@@ -44,3 +44,49 @@
     *   *Critério de Ascensão:* Postura proativa, conhecimento exaustivo dos protocolos institucionais e versatilidade tática para operar em qualquer ecossistema de crise (fugas, varreduras ou confrontos armados).
 *   **Operador Sênior:** Especialista em balística e assalto aerotático. Detém a prioridade no acionamento da linha de fogo lateral em missões de infiltração, apoio de fogo aproximado, cenários de alto risco e eventos sob Código 5 (COD5).
 *   **Operador Veterano:** Tripulante Master da divisão. Encarregado da fiscalização doutrinária de todas as praças operacionais inferiores, acumulando funções de planejamento tático e rotinas administrativas junto ao Comando.
+
+# 🏛️ CADEIA DE COMANDO E HIERARQUIA OPERACIONAL
+
+O Grupamento de Sistemas Aerotáticos segue uma estrutura hierárquica rígida e bem definida, garantindo a fluidez da comunicação e o respeito à doutrina tanto em solo quanto na linha de voo.
+
+---
+
+```mermaid
+graph LR
+    %% Configuração de Estilos das Caixas
+    classDef altoComando fill:#1a4a75,stroke:#fff,stroke-width:2px,color:#fff;
+    classDef comando fill:#2a5d8c,stroke:#fff,stroke-width:2px,color:#fff;
+    classDef subComando fill:#3b70a3,stroke:#fff,stroke-width:2px,color:#fff;
+    classDef quadros fill:#222,stroke:#f0a500,stroke-width:2px,color:#fff;
+    classDef cargo fill:#2d3748,stroke:#718096,stroke-width:1px,color:#fff;
+
+    %% Estrutura Principal de Comando (Fluxo Esquerda para Direita)
+    ALTO["<b>[ ALTO COMANDO ]</b><br>Instância Máxima"] --> COMANDO
+    COMANDO["<b>[ COMANDO ]</b><br>Diretrizes e Decisões"] --> SUB
+    SUB["<b>[ SUB COMANDO ]</b><br>Elo Voo e Solo"] --> Q_PILOTOS
+    SUB --> Q_OPERADORES
+
+    %% Subgráfico do Quadro de Pilotos (Fluxo Esquerda para Direita - Antiguidade)
+    subgraph P ["🕹️ LINHA DE VOO (Ordem de Antiguidade: Maior para Menor)"]
+        Q_PILOTOS["<b>QUADRO DE PILOTOS</b>"] --> P1["🏅 Piloto Veterano"]
+        P1 --> P2["🎖️ Piloto Sênior"]
+        P2 --> P3["👮 Piloto Oficial"]
+        P3 --> P4["🛩️ Piloto Estagiário"]
+        P4 --> P5["⚠️ Aspirante a Piloto *"]
+    end
+
+    %% Subgráfico do Quadro de Operadores (Fluxo Esquerda para Direita - Antiguidade)
+    subgraph O ["🎯 TRIPULAÇÃO (Ordem de Antiguidade: Maior para Menor)"]
+        Q_OPERADORES["<b>QUADRO DE OPERADORES</b>"] --> O1["🏅 Operador Veterano"]
+        O1 --> O2["🎖️ Operador Sênior"]
+        O2 --> O3["👮 Operador Oficial"]
+        O3 --> O4["🦅 Tripulante Operacional"]
+        O4 --> O5["⚠️ Aspirante Operador *"]
+    end
+
+    %% Aplicando Estilos
+    class ALTO altoComando;
+    class COMANDO comando;
+    class SUB subComando;
+    class Q_PILOTOS,Q_OPERADORES quadros;
+    class P1,P2,P3,P4,P5,O1,O2,O3,O4,O5 cargo;
