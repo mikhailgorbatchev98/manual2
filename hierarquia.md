@@ -47,7 +47,7 @@
 
 > ### 🏛️ Cadeia de Comando e Hierarquia Operacional
 
-O Grupamento de Sistemas Aerotáticos segue uma estrutura hierárquica rígida e bem definida, garantindo a fluidez da comunicação e o respeito à doutrina tanto em solo quanto na linha de voo.
+O Grupamento de Suporte Aéreo segue uma estrutura hierárquica rígida e bem definida, garantindo a fluidez da comunicação e o respeito à doutrina tanto em solo quanto na linha de voo.
 
 ---
 
@@ -55,7 +55,7 @@ O Grupamento de Sistemas Aerotáticos segue uma estrutura hierárquica rígida e
   <img 
     src="./organograma.png" 
     alt="Organograma PMHL-GSA" 
-    width="900" 
+    width="1080" 
     height="auto"
     style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);"
   >
